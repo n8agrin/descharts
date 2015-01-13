@@ -1,0 +1,9 @@
+{
+  "name": "descharts",
+  "version": "0.1.0",
+  "description": "A cartesian charting library.",
+  "main": "descharts.js",
+  "devDependencies": {
+    "d3": "^3.5.3"
+  }
+}
